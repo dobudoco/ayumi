@@ -1,0 +1,10 @@
+.hoo,
+.row
+  display: flex
+
+calcFlexBasis(col)
+  col * 100% / 12
+
+for num in 1..12
+  col{num}
+    flex-basis: calcFlexBasis(num)
