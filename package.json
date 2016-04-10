@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dobudoco/grid/issues"
   },
-  "homepage": "https://github.com/dobudoco/grid#readme"
+  "homepage": "https://github.com/dobudoco/grid#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
