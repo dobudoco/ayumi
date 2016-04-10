@@ -1,0 +1,65 @@
+.hoo,
+.row {
+  display: flex;
+}
+
+.ichi,
+.col1 {
+  flex-basis: calc(1 * 100% / 12)
+}
+
+.ni,
+.col2 {
+  flex-basis: calc(2 * 100% / 12)
+}
+
+.san,
+.col3 {
+  flex-basis: calc(3 * 100% / 12)
+}
+
+.shi,
+.col4 {
+  flex-basis: calc(4 * 100% / 12)
+}
+
+.go,
+.col5 {
+  flex-basis: calc(5 * 100% / 12)
+}
+
+.roku,
+.col6 {
+  flex-basis: calc(6 * 100% / 12)
+}
+
+.shichi,
+.col7 {
+  flex-basis: calc(7 * 100% / 12)
+}
+
+.hachi,
+.col8 {
+  flex-basis: calc(8 * 100% / 12)
+}
+
+.kyuu,
+.col9 {
+  flex-basis: calc(9 * 100% / 12)
+}
+
+.jyuu,
+.col10 {
+  flex-basis: calc(10 * 100% / 12)
+}
+
+.jyuu-ichi,
+.col11 {
+  flex-basis: calc(11 * 100% / 12)
+}
+
+.jyuu-ni,
+.col12 {
+  flex-basis: calc(12 * 100% / 12)
+}
+
