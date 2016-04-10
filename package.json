@@ -2,7 +2,7 @@
   "name": "ayumi",
   "version": "1.0.0",
   "description": "A flex box grid built with budo",
-  "main": "index.js",
+  "main": "ayumi.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
