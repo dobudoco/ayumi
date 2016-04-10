@@ -1,0 +1,23 @@
+{
+  "name": "ayumi",
+  "version": "1.0.0",
+  "description": "A flex box grid built with budo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dobudoco/grid.git"
+  },
+  "keywords": [
+    "grid",
+    "aikido"
+  ],
+  "author": "dobudo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dobudoco/grid/issues"
+  },
+  "homepage": "https://github.com/dobudoco/grid#readme"
+}
