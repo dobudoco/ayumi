@@ -1,0 +1,9 @@
+$japaneseNumbers = ( ichi ni san shi go roku shichi hachi kyuu jyuu jyuu-ichi jyuu-ni )
+
+calcFlexBasis(col)
+  col * 100% / 12
+
+for num in 1..12
+  .{$japaneseNumbers[num - 1]},
+  .col{num}
+    flex-basis: calcFlexBasis(num)
