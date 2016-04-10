@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/dobudoco/grid#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-stylus": "^2.3.1"
   }
 }
