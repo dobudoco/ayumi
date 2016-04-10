@@ -2,13 +2,13 @@
   "name": "ayumi",
   "version": "1.0.0",
   "description": "A flex box grid built with budo",
-  "main": "ayumi.css",
+  "main": "./dist/ayumi.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dobudoco/grid.git"
+    "url": "git+https://github.com/dobudoco/ayumi.git"
   },
   "keywords": [
     "grid",
