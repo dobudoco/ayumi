@@ -1,5 +1,6 @@
 const gulp = require('gulp')
 const stylus = require('gulp-stylus')
+const rename = require('gulp-rename')
 const cleanCSS = require('gulp-clean-css')
 const autoprefixer = require('gulp-autoprefixer')
 
@@ -16,5 +17,6 @@ gulp.task('stylus', () => {
 gulp.task('minify-css', () => {
   return gulp.src('dist/ayumi.css')
     .pipe(cleanCSS())
-    .pipe(gulp.dest('dist/ayumi.min.css'))
+    .pipe(rename('ayumi.min.css'))
+    .pipe(gulp.dest('dist'))
 })
