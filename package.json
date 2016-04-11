@@ -1,6 +1,6 @@
 {
   "name": "ayumi",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A flex box grid built with budo",
   "main": "./dist/ayumi.css",
   "scripts": {
