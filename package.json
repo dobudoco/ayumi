@@ -4,7 +4,7 @@
   "description": "A flex box grid built with budo",
   "main": "./dist/ayumi.css",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "hexo deploy -g && node deploy"
   },
   "repository": {
     "type": "git",
