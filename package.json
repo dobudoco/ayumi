@@ -4,7 +4,7 @@
   "description": "A flex box grid built with budo",
   "main": "./dist/ayumi.css",
   "scripts": {
-    "start": "hexo deploy -g && node deploy"
+    "build": "gulp stylus && gulp minify-css"
   },
   "repository": {
     "type": "git",
